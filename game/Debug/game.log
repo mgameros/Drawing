@@ -1,0 +1,22 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (game.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.cpp
+c:\users\ronda\documents\programming\programming assignments\drawing\game\settingsmgr.h(66): warning C4551: function call missing argument list
+c:\users\ronda\documents\programming\programming assignments\drawing\game\shape.h(73): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\ronda\documents\programming\programming assignments\drawing\game\shape.h(74): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\ronda\documents\programming\programming assignments\drawing\game\shape.h(83): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\ronda\documents\programming\programming assignments\drawing\game\shape.h(84): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\ronda\documents\programming\programming assignments\drawing\game\shape.h(98): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\ronda\documents\programming\programming assignments\drawing\game\shape.h(99): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\ronda\documents\programming\programming assignments\drawing\game\shape.h(128): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\ronda\documents\programming\programming assignments\drawing\game\shape.h(131): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\ronda\documents\programming\programming assignments\drawing\game\shape.h(139): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\ronda\documents\programming\programming assignments\drawing\game\shape.h(142): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\ronda\documents\programming\programming assignments\drawing\game\shape.h(154): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\ronda\documents\programming\programming assignments\drawing\game\shape.h(157): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\ronda\documents\programming\programming assignments\drawing\game\shapemgr.h(45): warning C4018: '<': signed/unsigned mismatch
+c:\users\ronda\documents\programming\programming assignments\drawing\game\shapemgr.h(55): warning C4018: '<': signed/unsigned mismatch
+c:\users\ronda\documents\programming\programming assignments\drawing\game\shapemgr.h(75): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\ronda\documents\programming\programming assignments\drawing\game\shapemgr.h(76): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\ronda\documents\programming\programming assignments\drawing\game\shapemgr.h(82): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\ronda\documents\programming\programming assignments\drawing\game\shapemgr.h(83): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  game.vcxproj -> C:\Users\Ronda\Documents\Programming\Programming Assignments\drawing\Debug\drawing.exe
